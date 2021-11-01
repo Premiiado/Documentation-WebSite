@@ -5,7 +5,7 @@
 ## Sobre o projeto
 
 
- Esse exemplo de website de documentação em html é tem  seus códigos disponíveis para download livre, ou seja, qualquer pessoa pode baixar e utilizar o código
+ Esse exemplo de website de documentação em html  tem  seus códigos disponíveis para download livre, ou seja, qualquer pessoa pode baixar e utilizar o código
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
